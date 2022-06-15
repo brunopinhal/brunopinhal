@@ -14,7 +14,7 @@ I'm Bruno Pinhal, a brazilian software engineer based in Campinas,SP.
 - 💻 Working @ CI&T Software
 - 🚵🏻 Mountain biker
 - 🏔 Outdoor life lover
-- 👤27, he/him
+- 👤28, he/him
 
 
 <div style="display: inline_block"><br>
